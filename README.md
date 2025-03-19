@@ -1,4 +1,4 @@
-# Analisis Restaurante Sabores del Mundo
+# Análisis Restaurante Sabores del Mundo
 
 El restaurante sabores del mundo lazo un nuevo menú en el año 2023 y se realiza un análisis para determinar puntos claves para la toma de decisiones de los dueños.
 
